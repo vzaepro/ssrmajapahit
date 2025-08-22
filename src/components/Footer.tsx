@@ -110,7 +110,7 @@ const Footer = () => {
               </div>
               <div className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 text-yellow-300 mt-0.5" />
-                <span>Jl. Sekarputih, RT.04/RW.02, Mergelo, Kedundung, Kec. Magersari, Kota Mojokerto, Jawa Timur 61316</span>
+                <span>Jl. Sekarputih, Kec. Magersari, Kota Mojokerto, Jawa Timur 61316</span>
               </div>
             </div>
           </div>
@@ -194,9 +194,6 @@ const Footer = () => {
             <div className="text-center lg:text-left">
               <p className="text-white/70">
                 &copy; {currentYear} SSR Majapahit. Semua hak cipta dilindungi.
-              </p>
-              <p className="text-sm text-white/60">
-                Dibuat dengan ❤️ untuk melestarikan warisan budaya Majapahit
               </p>
             </div>
 
