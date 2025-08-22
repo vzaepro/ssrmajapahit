@@ -30,7 +30,7 @@ const AboutSection = () => {
     <section id="about" className="py-20 bg-gradient-to-br from-background to-accent/20">
       <div className="container mx-auto px-4">
         {/* Section Header */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-16">
           <div className="ornament-border pb-4 mb-8">
             <h2 className="text-4xl md:text-5xl font-bold text-primary mb-4">
               Tentang Kami
