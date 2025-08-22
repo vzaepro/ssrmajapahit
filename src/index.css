@@ -179,7 +179,7 @@ All colors MUST be HSL.
   .ornament-border::after {
     content: '';
     position: absolute;
-    bottom: -8px;
+    bottom: -4px;
     left: 50%;
     width: 60px;
     height: 4px;
