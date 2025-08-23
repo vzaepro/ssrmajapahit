@@ -32,7 +32,7 @@ const Header = () => {
             onClick={() => scrollToSection('hero')}
           >
             <div className="w-10 h-10 rounded-lg gold-gradient flex items-center justify-center">
-              <img src="/logo.png" alt="Logo" className="w-6 h-6" />
+              <img src="/logo.png" alt="Logo" className="w-full h-full object-contain" />
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-bold text-primary">SSR</span>
