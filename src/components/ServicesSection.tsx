@@ -91,7 +91,7 @@ const ServicesSection = () => {
                 ) : (
                   // Pagar Artistik image for third service
                   <img 
-                    src="/lovable-uploads/a863cce6-1267-4c6b-b448-86127f24c8af.png" 
+                    src="/lovable-uploads/pagar-artistik.png" 
                     alt="Pagar artistik bergaya Majapahit dengan kombinasi batu bata merah dan motif tradisional"
                     className="w-full h-full object-cover"
                   />
