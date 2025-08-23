@@ -50,7 +50,7 @@ const TestimonialsSection = () => {
   const stats = [
     { number: '100+', label: 'Proyek Selesai' },
     { number: '50+', label: 'Klien Puas' },
-    { number: '5', label: 'Tahun Pengalaman' },
+    { number: '7', label: 'Tahun Pengalaman' },
     { number: '4.9', label: 'Rating Rata-rata' }
   ];
 
