@@ -20,7 +20,28 @@ const HeroSection = () => {
             backgroundImage: `linear-gradient(135deg, rgba(139, 69, 19, 0.8), rgba(160, 82, 45, 0.7)), url('/hero-bg.png')`
           }}
         />
-      
+
+        {/* Decorative Pattern Overlay */}
+        <div className="absolute inset-0 opacity-10">
+          <div className="w-full h-full" 
+               style={{
+                 backgroundImage: `url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23DAA520' fill-opacity='0.3'%3E%3Cpath d='M30 30c0-8.284-6.716-15-15-15s-15 6.716-15 15 6.716 15 15 15 15-6.716 15-15zm15-15c8.284 0 15-6.716 15-15S53.284 0 45 0s-15 6.716-15 15 6.716 15 15 15z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
+                 backgroundSize: '60px 60px'
+               }}
+          />
+        </div>
+      </div>
+
+            {/* Content */}
+      <div className="relative z-10 container mx-auto px-4 text-center">
+        <div className="max-w-4xl mx-auto">
+          {/* Crown Icon */}
+          <div className="mb-8 flex justify-center">
+            <div className="w-20 h-20 rounded-full bg-gradient-to-br from-yellow-400 to-yellow-600 flex items-center justify-center gold-shadow">
+              <Crown className="w-10 h-10 text-white" />
+            </div>
+          </div>
+        
           {/* Main Title */}
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-wider">
             <span className="bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-500 bg-clip-text text-transparent">
