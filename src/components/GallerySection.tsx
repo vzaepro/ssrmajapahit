@@ -11,7 +11,7 @@ const GallerySection = () => {
     { id: 'gapura', label: 'Gapura', icon: Crown },
     { id: 'ornamen', label: 'Ornamen', icon: Palette },
     { id: 'pagar', label: 'Pagar', icon: Shield },
-    { id: 'candi', label: 'Bangunan', icon: Building },
+    { id: 'candi', label: 'Candi', icon: Building },
   ];
 
   const portfolioItems = [
