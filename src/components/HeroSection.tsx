@@ -31,6 +31,16 @@ const HeroSection = () => {
         </div>
       </div>
 
+            {/* Content */}
+      <div className="relative z-10 container mx-auto px-4 text-center">
+        <div className="max-w-4xl mx-auto">
+          {/* Crown Icon */}
+          <div className="mb-8 flex justify-center">
+            <div className="w-20 h-20 rounded-full bg-gradient-to-br from-yellow-400 to-yellow-600 flex items-center justify-center gold-shadow">
+              <Crown className="w-10 h-10 text-white" />
+            </div>
+          </div>
+      
           {/* Main Title */}
           <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 tracking-wider">
             <span className="bg-gradient-to-r from-yellow-300 via-yellow-400 to-yellow-500 bg-clip-text text-transparent">
