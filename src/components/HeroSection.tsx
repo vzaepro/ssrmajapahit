@@ -17,7 +17,7 @@ const HeroSection = () => {
         <div 
           className="w-full h-full bg-cover bg-center bg-no-repeat"
           style={{
-            backgroundImage: `linear-gradient(135deg, rgba(139, 69, 19, 0.8), rgba(160, 82, 45, 0.7)), url('/hero-bg.png')`
+            backgroundImage: `url('/hero-bg.png')`
           }}
         />
         {/* Decorative Pattern Overlay */}
