@@ -87,7 +87,7 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center space-x-2 mb-6">
               <div className="w-12 h-12 rounded-lg gold-gradient flex items-center justify-center">
-                <img src="/logo.png" />
+                <img src="/logo.png" className="w-10 h-10" />
               </div>
               <div>
                 <span className="text-2xl font-bold text-white">SSR</span>
