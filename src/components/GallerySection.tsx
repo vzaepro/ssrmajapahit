@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Crown, Palette, Shield, Grid3X3, Eye, Calendar } from 'lucide-react';
+import { Crown, Palette, Shield,Building, Grid3X3, Eye, Calendar } from 'lucide-react';
 
 const GallerySection = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
