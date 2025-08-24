@@ -40,7 +40,6 @@ const Footer = () => {
     'Gapura Majapahit',
     'Relief & Ornamen',
     'Pagar Artistik',
-    'Konsultasi Desain'
   ];
 
   const socialLinks = [
@@ -132,15 +131,18 @@ const Footer = () => {
             </ul>
           </div>
 
-          {/* Services */}
+         {/* Services */}
           <div>
             <h4 className="text-xl font-bold mb-6 text-yellow-200">Layanan</h4>
             <ul className="space-y-3">
               {services.map((service, index) => (
                 <li key={index}>
-                  <span className="text-white/80 hover:text-yellow-200 smooth-transition cursor-pointer">
+                  <button
+                    onClick={() => scrollToSection('services')}
+                    className="text-white/80 hover:text-yellow-200 smooth-transition text-left"
+                  >
                     {service}
-                  </span>
+                  </button>
                 </li>
               ))}
             </ul>
