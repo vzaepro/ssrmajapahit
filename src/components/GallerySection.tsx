@@ -40,17 +40,6 @@ const GallerySection = () => {
       tags: ['Garuda', 'Modern', 'Minimalis']
     },
     {
-      id: 4,
-      title: 'Ornamen Gunungan Majapahit',
-      category: 'ornamen',
-      year: '2024',
-      location: 'Mojokerto',
-      description: 'Ornamen tradisional gunungan dengan ukiran motif klasik Majapahit',
-      before: true,
-      image: '/lovable-uploads/ornamen1.png',
-      tags: ['Gunungan', 'Ukiran Klasik', 'Tradisional']
-    },
-    {
       id: 3,
       title: 'Ornamen Mandala Surya Majapahit',
       category: 'ornamen',
@@ -60,6 +49,17 @@ const GallerySection = () => {
       before: true,
       image: '/lovable-uploads/ornamen-seni.png',
       tags: ['Mandala', 'Surya Majapahit', 'Simetris']
+    },
+    {
+      id: 4,
+      title: 'Ornamen Gunungan Majapahit',
+      category: 'ornamen',
+      year: '2024',
+      location: 'Mojokerto',
+      description: 'Ornamen tradisional gunungan dengan ukiran motif klasik Majapahit',
+      before: true,
+      image: '/lovable-uploads/ornamen3.png',
+      tags: ['Gunungan', 'Ukiran Klasik', 'Tradisional']
     },
     {
       id: 5,
