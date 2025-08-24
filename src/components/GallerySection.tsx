@@ -270,6 +270,7 @@ const GallerySection = () => {
                         {item.category === 'ornamen' && <Palette className="w-12 h-12 mx-auto mb-2" />}
                         {item.category === 'pagar' && <Shield className="w-12 h-12 mx-auto mb-2" />}
                         {item.category === 'candi' && <Building className="w-12 h-12 mx-auto mb-2" />}
+                        {item.category === 'angkul' && <Star className="w-12 h-12 mx-auto mb-2" />}
                         <p className="text-sm font-medium">{item.title}</p>
                       </div>
                     </div>
