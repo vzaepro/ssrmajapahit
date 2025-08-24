@@ -52,14 +52,14 @@ const GallerySection = () => {
     },
     {
       id: 4,
-      title: 'Ornamen Gunungan Majapahit',
+      title: 'Ornamen Tradisional Atap Jawa',
       category: 'ornamen',
       year: '2024',
       location: 'Mojokerto',
-      description: 'Ornamen tradisional gunungan dengan ukiran motif klasik Majapahit',
+      description: 'Ornamen ini biasa digunakan sebagai hiasan atap rumah joglo, gapura atau bangunan bergaya klasik Jawa. Setiap detail ukiran menunjukkan kekayaan seni dan budaya lokal yang masih lestari hingga saat ini.',
       before: true,
       image: '/lovable-uploads/ornamen3.png',
-      tags: ['Gunungan', 'Ukiran Klasik', 'Tradisional']
+      tags: ['Tradisional', 'Hiasan Atap', 'Ukiran Seni Adat Jawa']
     },
     {
       id: 5,
@@ -85,7 +85,7 @@ const GallerySection = () => {
     },
     {
       id: 7,
-      title: 'Gapura Desa Kalangan Prao',
+      title: 'Gapura Batas Desa Kalangan Prao',
       category: 'gapura',
       year: '2024',
       location: 'Madura',
@@ -96,24 +96,24 @@ const GallerySection = () => {
     },
     {
       id: 8,
-      title: 'Gapura Desa Kalangan Prao Detail',
+      title: 'Gapura Batas Desa Pucangro',
       category: 'gapura',
-      year: '2024',
-      location: 'Madura',
+      year: '2023',
+      location: 'Lamongan',
       description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
       before: true,
-      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      image: '/lovable-uploads/gapura2.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     },
     {
       id: 9,
-      title: 'Gapura Desa Kalangan Prao',
+      title: 'Gapura Batas Desa Kalimalang',
       category: 'gapura',
-      year: '2024',
-      location: 'Madura',
+      year: '2022',
+      location: 'Ponorogo',
       description: 'Gapura entrance desa dengan arsitektur tradisional Majapahit bata merah',
       before: true,
-      image: '/lovable-uploads/59d6f460-bb23-4cd3-8c64-07e570dca0d6.png',
+      image: '/lovable-uploads/gapura-service.png',
       tags: ['Entrance Desa', 'Bata Merah', 'Tradisional']
     },
     {
@@ -129,69 +129,69 @@ const GallerySection = () => {
     },
     {
       id: 11,
-      title: 'Gapura Desa Kalangan Prao',
+      title: 'Gapura Wringin Lawang',
       category: 'gapura',
       year: '2024',
-      location: 'Madura',
+      location: 'Mojokerto',
       description: 'Gapura entrance desa dengan arsitektur tradisional Majapahit bata merah',
       before: true,
-      image: '/lovable-uploads/59d6f460-bb23-4cd3-8c64-07e570dca0d6.png',
+      image: '/lovable-uploads/gapura4.png',
       tags: ['Entrance Desa', 'Bata Merah', 'Tradisional']
     },
     {
       id: 12,
-      title: 'Gapura Desa Kalangan Prao Detail',
+      title: 'Gapura Wringin Lawang',
       category: 'gapura',
       year: '2024',
-      location: 'Madura',
+      location: 'Pasuruan',
       description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
       before: true,
-      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      image: '/lovable-uploads/gapura5.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     },
     {
       id: 13,
-      title: 'Gapura Desa Kalangan Prao Detail',
+      title: 'Candi Bajang Ratu',
       category: 'candi',
-      year: '2024',
-      location: 'Madura',
-      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      year: '2025',
+      location: 'Mojokerto',
+      description: 'Replika candi ini dibangun dengan bata merah secara detail, presisi dan sentuhan modern untuk menghadirkan nuansa klasik yang megah dan bersejarah.',
       before: true,
       image: '/lovable-uploads/candi1.png',
-      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+      tags: ['Bata Merah', 'Candi Nusantara', 'Bersejarah']
     },
     {
       id: 14,
-      title: 'Gapura Desa Kalangan Prao Detail',
+      title: 'Replika Candi Bajang Ratu',
       category: 'candi',
       year: '2024',
-      location: 'Madura',
-      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      location: 'Madiun',
+      description: 'Karya konstruksi bernuansa heritage Majapahit, memadukan kekuatan material bata merah dengan keanggunan desain tradisional.',
       before: true,
       image: '/lovable-uploads/candi2.png',
-      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+      tags: ['Detail Konstruksi', 'Budaya', 'Arsitektur Klasik']
     },
     {
       id: 15,
-      title: 'Gapura Desa Kalangan Prao Detail',
+      title: 'Angkul-Angkul Majapahit',
       category: 'angkul',
-      year: '2024',
-      location: 'Madura',
-      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      year: '2022',
+      location: 'Mojokerto',
+      description: 'Detail konstruksi mengunnakan batu bata merah dengan paduan arsitektur bergaya Majapahit yang elegan. ',
       before: true,
-      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
-      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+      image: '/lovable-uploads/angkul1.png',
+      tags: ['Detail Konstruksi', 'Angkul Klasik', 'Bata Merah']
     },
     {
       id: 16,
-      title: 'Gapura Desa Kalangan Prao Detail',
+      title: 'Pintu Gerbang Bata Merah Gaya Majapahit',
       category: 'angkul',
       year: '2024',
       location: 'Madura',
       description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
       before: true,
-      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
-      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+      image: '/lovable-uploads/angkul2.png',
+      tags: ['Gerbang Bata Merah', 'Bangunan Heritage', 'Desain Tradisional']
     },
   ];
 
