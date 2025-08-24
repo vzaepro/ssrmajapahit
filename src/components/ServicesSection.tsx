@@ -77,7 +77,7 @@ const ServicesSection = () => {
                 {index === 0 ? (
                   // Gapura image for first service
                   <img 
-                    src="/lovable-uploads/ead4c770-b859-43a6-973e-0e414f704b66.png" 
+                    src="/lovable-uploads/gapura-service.png" 
                     alt="Gapura Majapahit bergaya tradisional dengan ornamen batu bata merah"
                     className="w-full h-full object-cover"
                   />
