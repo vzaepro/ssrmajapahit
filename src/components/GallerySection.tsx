@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Crown, Palette, Shield,Building, Grid3X3, Eye, Calendar } from 'lucide-react';
+import { Crown, Palette, Shield, Building, Star, Grid3X3, Eye, Calendar } from 'lucide-react';
 
 const GallerySection = () => {
   const [selectedCategory, setSelectedCategory] = useState('all');
@@ -103,6 +103,7 @@ const GallerySection = () => {
       before: true,
       image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+  }
   ];
 
   const filteredItems = selectedCategory === 'all' 
