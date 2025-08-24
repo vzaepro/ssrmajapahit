@@ -90,7 +90,18 @@ const GallerySection = () => {
       location: 'Madura',
       description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
       before: true,
-      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      image: '/lovable-uploads/candi1.png',
+      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+    },
+    {
+      id: 15,
+      title: 'Gapura Desa Kalangan Prao Detail',
+      category: 'candi',
+      year: '2024',
+      location: 'Madura',
+      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      before: true,
+      image: '/lovable-uploads/candi2.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     },
     {
