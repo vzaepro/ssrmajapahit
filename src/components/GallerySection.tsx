@@ -92,7 +92,7 @@ const GallerySection = () => {
       before: true,
       image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
-    }
+    },
     {
       id: 14,
       title: 'Gapura Desa Kalangan Prao Detail',
