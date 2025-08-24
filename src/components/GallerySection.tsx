@@ -12,6 +12,7 @@ const GallerySection = () => {
     { id: 'ornamen', label: 'Ornamen', icon: Palette },
     { id: 'pagar', label: 'Pagar', icon: Shield },
     { id: 'candi', label: 'Candi', icon: Building },
+    { id: 'angkul', label: 'Angkul-Angkul', icon: Star },
   ];
 
   const portfolioItems = [
@@ -92,6 +93,16 @@ const GallerySection = () => {
       image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     }
+    {
+      id: 14,
+      title: 'Gapura Desa Kalangan Prao Detail',
+      category: 'angkul',
+      year: '2024',
+      location: 'Madura',
+      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      before: true,
+      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
   ];
 
   const filteredItems = selectedCategory === 'all' 
