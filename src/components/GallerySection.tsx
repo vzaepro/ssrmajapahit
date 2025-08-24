@@ -18,7 +18,7 @@ const GallerySection = () => {
 
   const portfolioItems = [
     {
-      id: 7,
+      id: 1,
       title: 'Ornamen Gunungan Majapahit',
       category: 'ornamen',
       year: '2024',
@@ -29,7 +29,29 @@ const GallerySection = () => {
       tags: ['Gunungan', 'Ukiran Klasik', 'Tradisional']
     },
     {
-      id: 8,
+      id: 2,
+      title: 'Ornamen Burung Garuda',
+      category: 'ornamen',
+      year: '2025',
+      location: 'Mojokerto',
+      description: 'Ornamen motif burung garuda dengan sentuhan ukiran modern minimals',
+      before: true,
+      image: '/lovable-uploads/ornamen2.png',
+      tags: ['Garuda', 'Modern', 'Minimalis']
+    },
+    {
+      id: 4,
+      title: 'Ornamen Gunungan Majapahit',
+      category: 'ornamen',
+      year: '2024',
+      location: 'Mojokerto',
+      description: 'Ornamen tradisional gunungan dengan ukiran motif klasik Majapahit',
+      before: true,
+      image: '/lovable-uploads/ornamen1.png',
+      tags: ['Gunungan', 'Ukiran Klasik', 'Tradisional']
+    },
+    {
+      id: 3,
       title: 'Ornamen Mandala Surya Majapahit',
       category: 'ornamen',
       year: '2024',
@@ -40,7 +62,7 @@ const GallerySection = () => {
       tags: ['Mandala', 'Surya Majapahit', 'Simetris']
     },
     {
-      id: 9,
+      id: 5,
       title: 'Pagar Gapura Bata Merah Kompleks',
       category: 'pagar',
       year: '2024',
@@ -51,7 +73,7 @@ const GallerySection = () => {
       tags: ['Bata Merah', 'Gapura', 'Ornamen Geometris']
     },
     {
-      id: 10,
+      id: 6,
       title: 'Pagar Gapura Minimalis Modern',
       category: 'pagar',
       year: '2024',
@@ -60,6 +82,50 @@ const GallerySection = () => {
       before: true,
       image: '/lovable-uploads/67721c93-6901-45ae-a1d0-ff6f65f19300.png',
       tags: ['Modern', 'Minimalis', 'Gapura']
+    },
+    {
+      id: 7,
+      title: 'Gapura Desa Kalangan Prao',
+      category: 'gapura',
+      year: '2024',
+      location: 'Madura',
+      description: 'Gapura entrance desa dengan arsitektur tradisional Majapahit bata merah',
+      before: true,
+      image: '/lovable-uploads/59d6f460-bb23-4cd3-8c64-07e570dca0d6.png',
+      tags: ['Entrance Desa', 'Bata Merah', 'Tradisional']
+    },
+    {
+      id: 8,
+      title: 'Gapura Desa Kalangan Prao Detail',
+      category: 'gapura',
+      year: '2024',
+      location: 'Madura',
+      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      before: true,
+      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+    },
+    {
+      id: 9,
+      title: 'Gapura Desa Kalangan Prao',
+      category: 'gapura',
+      year: '2024',
+      location: 'Madura',
+      description: 'Gapura entrance desa dengan arsitektur tradisional Majapahit bata merah',
+      before: true,
+      image: '/lovable-uploads/59d6f460-bb23-4cd3-8c64-07e570dca0d6.png',
+      tags: ['Entrance Desa', 'Bata Merah', 'Tradisional']
+    },
+    {
+      id: 10,
+      title: 'Gapura Desa Kalangan Prao Detail',
+      category: 'gapura',
+      year: '2024',
+      location: 'Madura',
+      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      before: true,
+      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     },
     {
       id: 11,
@@ -95,7 +161,7 @@ const GallerySection = () => {
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     },
     {
-      id: 15,
+      id: 14,
       title: 'Gapura Desa Kalangan Prao Detail',
       category: 'candi',
       year: '2024',
@@ -106,7 +172,18 @@ const GallerySection = () => {
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
     },
     {
-      id: 14,
+      id: 15,
+      title: 'Gapura Desa Kalangan Prao Detail',
+      category: 'angkul',
+      year: '2024',
+      location: 'Madura',
+      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      before: true,
+      image: '/lovable-uploads/fe51b027-bb0d-46ce-baf5-534692926663.png',
+      tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
+    }
+    {
+      id: 16,
       title: 'Gapura Desa Kalangan Prao Detail',
       category: 'angkul',
       year: '2024',
