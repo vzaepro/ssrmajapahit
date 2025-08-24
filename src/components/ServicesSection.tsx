@@ -84,7 +84,7 @@ const ServicesSection = () => {
                 ) : index === 1 ? (
                   // Ornamen Seni image for second service
                   <img 
-                    src="/lovable-uploads/d01e1c78-25c7-4ba1-80b8-5f7298a6ed95.png" 
+                    src="/lovable-uploads/ornamen-seni.png" 
                     alt="Ornamen tradisional Majapahit dengan motif mandala dan ukiran klasik"
                     className="w-full h-full object-cover"
                   />
