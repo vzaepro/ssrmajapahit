@@ -25,7 +25,7 @@ const GallerySection = () => {
       location: 'Mojokerto',
       description: 'Ornamen tradisional gunungan dengan ukiran motif klasik Majapahit',
       before: true,
-      image: '/lovable-uploads/64ce9437-08ca-4cc6-a6f4-3b7eb4e80d4d.png',
+      image: '/lovable-uploads/ornamen1.png',
       tags: ['Gunungan', 'Ukiran Klasik', 'Tradisional']
     },
     {
@@ -36,7 +36,7 @@ const GallerySection = () => {
       location: 'Mojokerto',
       description: 'Ornamen mandala dengan lambang Surya Majapahit dan motif simetris',
       before: true,
-      image: '/lovable-uploads/75498cf9-dc78-4656-919f-70928199de53.png',
+      image: '/lovable-uploads/ornamen-seni.png',
       tags: ['Mandala', 'Surya Majapahit', 'Simetris']
     },
     {
