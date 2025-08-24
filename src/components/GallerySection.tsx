@@ -100,7 +100,7 @@ const GallerySection = () => {
       category: 'gapura',
       year: '2023',
       location: 'Lamongan',
-      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      description: 'Detail kontruksi dan desain yang klasik berpadu papan nama yang minimalis modern.',
       before: true,
       image: '/lovable-uploads/gapura2.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
@@ -111,7 +111,7 @@ const GallerySection = () => {
       category: 'gapura',
       year: '2022',
       location: 'Ponorogo',
-      description: 'Gapura entrance desa dengan arsitektur tradisional Majapahit bata merah',
+      description: 'Gapura bata merah sebagai penanda batas desa, diperkaya papan nama beraksara yang penuh nilai budaya.',
       before: true,
       image: '/lovable-uploads/gapura-service.png',
       tags: ['Entrance Desa', 'Bata Merah', 'Tradisional']
@@ -133,7 +133,7 @@ const GallerySection = () => {
       category: 'gapura',
       year: '2024',
       location: 'Mojokerto',
-      description: 'Gapura entrance desa dengan arsitektur tradisional Majapahit bata merah',
+      description: 'Gapura bata merah elegan, menghadirkan sentuhan budaya dalam konstruksi modern.',
       before: true,
       image: '/lovable-uploads/gapura4.png',
       tags: ['Entrance Desa', 'Bata Merah', 'Tradisional']
@@ -144,7 +144,7 @@ const GallerySection = () => {
       category: 'gapura',
       year: '2024',
       location: 'Pasuruan',
-      description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
+      description: 'Detail konstruksi gapura dengan ornamen bertingkat serta bergaya tradisonal klasik.',
       before: true,
       image: '/lovable-uploads/gapura5.png',
       tags: ['Detail Konstruksi', 'Ornamen Bertingkat', 'Papan Nama']
@@ -176,7 +176,7 @@ const GallerySection = () => {
       title: 'Angkul-Angkul Majapahit',
       category: 'angkul',
       year: '2022',
-      location: 'Mojokerto',
+      location: 'Malang',
       description: 'Detail konstruksi mengunnakan batu bata merah dengan paduan arsitektur bergaya Majapahit yang elegan. ',
       before: true,
       image: '/lovable-uploads/angkul1.png',
@@ -187,7 +187,7 @@ const GallerySection = () => {
       title: 'Pintu Gerbang Bata Merah Gaya Majapahit',
       category: 'angkul',
       year: '2024',
-      location: 'Madura',
+      location: 'Sidoarjo',
       description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
       before: true,
       image: '/lovable-uploads/angkul2.png',
