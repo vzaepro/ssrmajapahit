@@ -287,7 +287,7 @@ const ContactSection = () => {
           <CardContent>
             <div className="aspect-video bg-accent/20 rounded-lg overflow-hidden">
               <iframe
-                src="https://maps.app.goo.gl/QhcZ4hiUYFQfXCvz5"
+                src="https://www.google.com/maps?q=GFP7%2B6J9+PT+SUMBER+SEKARPUTIH+RAYA,+Lingkungan+Jl.+Sekarputih,+RT.04%2FRW.02,+Mergelo,+Kedundung,+Kec.+Magersari,+Kota+Mojokerto,+Jawa+Timur+61316&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
