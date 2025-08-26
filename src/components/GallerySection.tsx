@@ -184,7 +184,7 @@ const GallerySection = () => {
     },
     {
       id: 16,
-      title: 'Pintu Gerbang Bata Merah Gaya Majapahit',
+      title: 'Angkul-Angkul Bata Merah Gaya Majapahit',
       category: 'angkul',
       year: '2024',
       location: 'Sidoarjo',
