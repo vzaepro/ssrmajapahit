@@ -191,7 +191,7 @@ const GallerySection = () => {
       description: 'Detail konstruksi gapura dengan ornamen bertingkat dan papan nama desa',
       before: true,
       image: '/lovable-uploads/angkul2.png',
-      tags: ['Gerbang Bata Merah', 'Bangunan Heritage', 'Desain Tradisional']
+      tags: ['Angkul-Angkul Bata Merah', 'Bangunan Heritage', 'Desain Tradisional']
     },
   ];
 
